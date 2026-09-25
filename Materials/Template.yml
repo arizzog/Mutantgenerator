@@ -1,0 +1,36 @@
+osprey_version: ''
+design_name: ''
+protein:
+  coordinates: |+2
+   
+  residue_configurations:
+    - mutability: []
+      flexibility:
+        is_flexible: true
+        include_structure_rotamer: true
+        use_continuous: true
+      identity:
+        chain: 
+        res_num: 
+        aa_type: 
+    - mutability: []
+      flexibility:
+        is_flexible: true
+        include_structure_rotamer: true
+        use_continuous: true
+      identity:
+        chain: 
+        res_num: 
+        aa_type: 
+
+  extra_templates: |+2
+  extra_templates_coordinates: |+2
+  extra_rotamers: |+2
+ligand:
+  coordinates: |+2
+    
+  residue_configurations: []
+  extra_templates: |+2
+  extra_templates_coordinates: |+2
+  extra_rotamers: |+2
+  translate_rotate: true
